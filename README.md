@@ -18,8 +18,7 @@
 <a href="https://www.microsoft.com/en/sql-server" target="_blank" rel="noreferrer"> <img src="https://compuzilla.ru/wp-content/uploads/maxresdefault-28.jpg" alt="sql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org//" target="_blank" rel="noreferrer"> <img src="https://codelab.pro/wp-content/uploads/2023/09/skrinshot-03-09-2023-17_48_50.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://aurigait.com/wp-content/uploads/2023/10/Docker-Logo.png" alt="docker" width="40" height="40"/> </a> 
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-
+</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvazymir1199&hide=Powershell,Shell,Batchfile&theme=tokyonight)
